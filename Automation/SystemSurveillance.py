@@ -68,7 +68,7 @@ def main():
     ProcessScan()
     return
     print(Border)
-    print("------Marvellous Platform Surveillance System-----")
+    print("------ Platform Surveillance System-----")
     print(Border)
     
     if (len(sys.argv)==2):
