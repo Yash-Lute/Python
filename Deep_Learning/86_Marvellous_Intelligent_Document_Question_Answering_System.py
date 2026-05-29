@@ -1,10 +1,10 @@
 # =========================================================
-#              Marvellous Infosystems
+#             
 # =========================================================
 # Project Name : Intelligent Document Question Answering System
 #                using RAG and Large Language Models
 #
-# Author       : Piyush Manohar Khairnar
+# Author       : Yash Lute
 # Date         : 09/05/2026
 #
 # Description  :
