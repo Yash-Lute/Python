@@ -3,7 +3,7 @@
 #              
 =======
 #             
->>>>>>> a5308c19d0d9766aa5273e47955ce00135301d46
+
 # =========================================================
 # Project Name : Intelligent Document Question Answering System
 #                using RAG and Large Language Models
@@ -12,7 +12,7 @@
 # Author       : Yash Kedarnath Lute
 =======
 # Author       : Yash Lute
->>>>>>> a5308c19d0d9766aa5273e47955ce00135301d46
+
 # Date         : 09/05/2026
 #
 # Description  :
